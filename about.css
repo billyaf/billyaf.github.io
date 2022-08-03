@@ -1,0 +1,38 @@
+body {
+    background-color: #1e3543;
+    margin: 0;
+    padding: 0;
+}
+
+.display-4 {
+    padding-top: 1rem;
+    font-family: ethnocentric;
+    color: #17ffc4;
+}
+
+.container-profil {
+    max-width: 100%;
+    margin: 100px auto;
+    justify-content: center;
+}
+
+.photo{
+    width: 100%;
+    text-align: center;
+    background-color:fff
+}
+
+.description {
+    color: white;
+    margin: auto;
+    background-color: 000;
+    text-align: center;
+}
+
+.desc {
+    width: 300px;
+    background-color: aquamarine;
+    color: white;
+    text-align: center;
+    margin-left: 39%;
+}

@@ -1,0 +1,46 @@
+@font-face {
+    font-family: ethnocentric;
+    src: url(ethnocentricrg);
+}
+
+body{
+    background-color: #17ffc4;
+}
+
+.jumbotron { 
+    padding-top: 8rem;
+    background-color: #1e3543;   
+}
+
+.display-4 {
+    padding-top: 1rem;
+    font-family: ethnocentric;
+    color: #17ffc4;
+}
+
+.btn {
+    background-color: #1e3543;
+    color: #17ffc4;
+}
+
+.btn:hover {
+    background-color: #101c24;
+    color: #17ffc4;
+}
+
+.footer {
+    background-color: #1E3543;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 80px;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+.dsb:hover {
+    cursor: not-allowed;
+}
+
