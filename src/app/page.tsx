@@ -198,7 +198,7 @@ export default function Home() {
         <div className="flex flex-col md:flex-row md:items-end justify-between mb-12 gap-4">
           <div>
             <h3 className="text-3xl font-bold text-slate-900 mb-2">Selected Visual Works</h3>
-            <p className="text-slate-500">Sekilas karya desain grafis dari pangkalan data Firebase.</p>
+            <p className="text-slate-500">Sekilas karya desain grafis.</p>
           </div>
           <Link href="/creative" className="text-emerald-600 font-semibold hover:underline flex items-center gap-2">
             Eksplorasi Galeri Visual &rarr;
